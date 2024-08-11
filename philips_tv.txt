@@ -1,0 +1,4 @@
+deviceportal.nettvservices.com
+epg.corio.com
+legacyportal.nettvservices.com
+nettv.corio.com
